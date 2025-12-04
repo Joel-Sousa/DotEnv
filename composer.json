@@ -21,9 +21,8 @@
         ]
     },
     "require": {
-        "php": "^7.0 || ^8.0",
-        "joel-sousa/dot-env": "dev-main"
+        "php": "^7.0 || ^8.0"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
