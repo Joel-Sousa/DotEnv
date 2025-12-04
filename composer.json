@@ -1,6 +1,6 @@
 {
     "name": "joel-sousa/dot-env",
-    "description": "Dot env descomplicado",
+    "description": "Dot env descomplicado1",
     "keywords": [
         "env",
         "dotenv",
@@ -21,7 +21,8 @@
         ]
     },
     "require": {
-        "php": "^7.0 || ^8.0"
+        "php": "^7.0 || ^8.0",
+        "joel-sousa/dot-env": "dev-main"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
