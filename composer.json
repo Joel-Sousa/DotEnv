@@ -1,0 +1,21 @@
+{
+    "name": "joel-sousa/dot-env",
+    "description": "Dot env descomplicado",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joel Sousa",
+            "email": "softmock@gmail.com",
+            "homepage": "https://github.com/joel-sousa"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/DotEnv.php"
+        ]
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
