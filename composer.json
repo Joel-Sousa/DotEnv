@@ -1,6 +1,11 @@
 {
     "name": "joel-sousa/dot-env",
     "description": "Dot env descomplicado",
+    "keywords": [
+        "env",
+        "dotenv",
+        "environment"
+    ],
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -16,7 +21,7 @@
         ]
     },
     "require": {
-        "php": ">=7.0"
+        "php": "^7.0 || ^8.0"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
